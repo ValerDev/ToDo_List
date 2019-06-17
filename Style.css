@@ -1,0 +1,124 @@
+.line{box-shadow: 0px 0px 10px 5px #b8142d;
+    background-color: #b8142d;
+    text-decoration: line-through;
+    
+}
+#title_style{
+    margin-left: 42%;
+    margin-right: auto;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 50px;
+  text-align: center;
+  text-transform:capitalize;
+   color: #e0dfdc;
+   
+}
+#btn{ box-shadow: 0px 4px 43px 2px #283966;
+    border-style:dashed;
+    display: inline-block;
+	background: transparent;
+	color: inherit;
+	font: inherit;
+    transition: all 200ms ease-in;
+	cursor: pointer;
+    height: 50px;
+	margin-left: 2px;
+    margin-top: 10px;
+    align-items: center;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 50%;
+    border-bottom-color: #378558;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+     color: #378558;
+    font-size: 18px;
+}
+#btn:hover {
+    opacity: 0.7;
+}#inp:hover {
+    opacity: 0.7;
+}
+#inp{box-shadow: 0px 4px 43px 2px #283966;
+     
+
+ width: 100%;
+ font-size: 30px;
+ line-height: 35px;
+ height: 70px;
+ text-align: center;
+ padding: 10px;
+ background: transparent;
+	color: #BBDEFB;
+    height: 25px;
+  
+    border-style:double;
+    margin-top: 10px;
+    margin-left:29.5%;
+      align-items: center;
+    justify-content: center;
+    width: 500px;
+   }
+
+#myBtn{box-shadow: 0px 4px 43px 2px #b8142d;
+    cursor: pointer;
+   border-bottom-color:  #378558;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 50%;
+    display: inline-block;
+	background: transparent;
+	color: inherit;
+	font: inherit;
+	border: 0;
+	outline: 0;
+	padding: 0;
+	transition: all 200ms ease-in;
+	cursor: pointer;
+    border: 1px solid #333;
+    height: 25px;
+    width: 30px;
+    border-style:dotted;
+    margin-left:100%;
+    margin-top: -18px;
+    display: block;
+}
+#myBtn:hover {
+    opacity: 0.7;
+}
+#ib_style{
+    
+    margin-right: 280px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#mydiv{ 
+    
+    margin-left: 31.5%;
+   margin-right: 50%;
+   
+   
+}
+#D {box-shadow: 0px 0px 15px 5px #9fb4f2;
+    cursor: pointer;
+    border: 0;
+border-bottom-color:  #378558;
+ width: 100%;
+text-align: center;
+ background: transparent;
+	height: 25px;
+    border: 1px solid #333;
+     border-style:dotted;
+   background-origin:border-box;
+    width: 499px;
+display: flex   ;
+    display: block;
+    font-size:20px;
+}
+#D:hover {
+    opacity: 0.9;
+}
+body{
+    font-size: ;
+    background-image: url(1.jpg);
+}
+
